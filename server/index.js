@@ -19,6 +19,7 @@ app.use(
   cors({
     origin: [
       "https://bico-client.vercel.app",
+      "https://bicowebgit.vercel.app",
       "https://bicotestclient.vercel.app",
       "http://localhost:3000",
     ],
